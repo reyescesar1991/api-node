@@ -1,1 +1,58 @@
-[{"id":"1","title":"El Padrino","year":"1972","genre":"Drama","rating":"9.2"},{"id":"2","title":"El Señor de los Anillos: La Comunidad del Anillo","year":"2001","genre":"Fantasía","rating":"8.8"},{"id":"4","title":"El Laberinto del Fauno","year":"2006","genre":"Fantasía","rating":"8.2"},{"id":"5","title":"Interstellar","year":"2014","genre":"Ciencia Ficción","rating":"8.6"},{"title":"Titanes del Pacifico","year":"2013","genre":"Accion","rating":"9.0","id":"6"},{"id":"7","title":"Mission Impossible : Rouge Nation","year":"2002","genre":"Action, Adventure, Fantasy","rating":"8.2"}]
+[
+    {
+        "id": "1",
+        "title": "El Padrino",
+        "year": "1972",
+        "genre": "Drama",
+        "rating": "9.2"
+    },
+    {
+        "id": "2",
+        "title": "El Señor de los Anillos: La Comunidad del Anillo",
+        "year": "2001",
+        "genre": "Fantasía, Aventura",
+        "rating": "9.7"
+    },
+    {
+        "id": "4",
+        "title": "El Laberinto del Fauno",
+        "year": "2006",
+        "genre": "Fantasía",
+        "rating": "8.2"
+    },
+    {
+        "id": "5",
+        "title": "Interstellar",
+        "year": "2014",
+        "genre": "Ciencia Ficción",
+        "rating": "8.6"
+    },
+    {
+        "title": "Titanes del Pacifico",
+        "year": "2013",
+        "genre": "Accion",
+        "rating": "9.0",
+        "id": "6"
+    },
+    {
+        "id": "7",
+        "title": "Mission Impossible : Rouge Nation",
+        "year": "2002",
+        "genre": "Action, Adventure, Fantasy",
+        "rating": "8.2"
+    },
+    {
+        "title": "Avatar",
+        "year": "2009",
+        "genre": "Action, Adventure, Fantasy",
+        "rating": "9.5",
+        "id": "8"
+    },
+    {
+        "title": "Avatar",
+        "year": "2009",
+        "genre": "Action, Adventure, Fantasy",
+        "rating": "9.5",
+        "id": "4d09ab66-136f-4aa3-83ba-cc51a3e9ead9"
+    }
+]
